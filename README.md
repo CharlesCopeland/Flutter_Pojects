@@ -1,2 +1,3 @@
 # Flutter_Pojects
-Flutter and Dart
+
+A repository for Flutter projects.
